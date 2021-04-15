@@ -1,0 +1,6 @@
+requests
+python-json-logger
+pandas
+pandas_datareader
+boto3
+numpy
